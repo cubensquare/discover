@@ -1,3 +1,3 @@
 from nginx
 add index.html /usr/share/nginx/html
-copy
+expose 80
